@@ -40,8 +40,6 @@ OR USING SSH
 ```bash
   npm install
 ```
-
-## Starting front-end servers :-
 - Build application
 ```bash
   npm start
